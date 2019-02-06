@@ -48,7 +48,6 @@ project:
     # this file in the 96boards/website repo - _data/verticles.yml
     verticals:
         - Maker
-        - 
 #Optional tags for your projects: meta-key words
 tags:
 - dragonboard410c
